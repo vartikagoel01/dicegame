@@ -1,0 +1,29 @@
+h1 {
+	color: darkgreen;
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	text-shadow: 5px 0 #232931;
+	margin: 50px;
+}
+.dice {
+	color: darkgreen;
+	font-family: 'Lobster', cursive;
+	margin: 40px;
+	text-align: center;
+	display: inline-block;
+}
+body{
+	background-color: darkgray ;
+}
+img{
+	width: 100%;
+}
+.container{
+	width: 45%;
+	margin: auto;
+	text-align: center;
+}
+p{
+	font-size: 20px;
+	font-family: 'Lobster', cursive;;
+}
